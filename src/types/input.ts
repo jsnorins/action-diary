@@ -1,0 +1,1 @@
+export type InputState = 'add-new' | 'edit';
